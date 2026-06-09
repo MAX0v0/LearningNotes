@@ -1,0 +1,35 @@
+哔哩哔哩个人主页:  https://space.bilibili.com/352676003?spm_id_from=333.1007.0.0
+
+Windows常见命令行:  https://www.notion.so/WindowsCommand-By-Max-2e18a453956780b89107f5394d1fe3d0
+
+JavaSE笔记:  https://www.notion.so/JavaSE-By-Max-2a38a4539567804fb809fe4bd1b1d6b7
+
+MySQL笔记:  https://www.notion.so/MySQL-By-Max-2e18a4539567801ab86afb2e80fad372
+
+JDBC笔记: https://www.notion.so/JDBC-By-Max-2f78a45395678029866bd7d53d816e44
+
+JavaWeb笔记:  https://www.notion.so/JavaWeb-By-Max-2f98a453956780438827fb5b56e139a5
+
+SSM(Spring,SoringMVC,Mybatis)笔记:  https://www.notion.so/SSM-By-Max-3138a4539567809f8207fdbd587eb7d8
+
+Git笔记:  https://www.notion.so/Git-By-Max-31e8a4539567801084e9d52bc434b1a1
+
+Linux笔记:  https://www.notion.so/Linux-By-Max-3208a453956780a7be58e3508adea690
+
+SpringBoot2笔记:  https://www.notion.so/SpringBoot2-By-Max-3248a453956780b79eb0deeb09346edb
+
+Redis笔记:  https://www.notion.so/Redis-By-Max-3288a4539567800790fef884fa4bd612
+
+SpringCloud笔记:  https://www.notion.so/SpringCloud-By-Max-3468a453956780c185bdcc5f3985ce63
+
+RocketMQ笔记:  https://www.notion.so/RocketMQ-By-Max-35c8a453956780798d13c8ec11ae263b
+
+JVM笔记:  https://www.notion.so/JVM-By-Max-3608a453956780a9bef2f469833feffe
+
+JUC笔记:  https://www.notion.so/JUC-By-Max-36d8a453956780d78253f0e13afda4b0
+
+Java设计模式笔记:  https://www.notion.so/DesignMode-By-Max-3708a4539567802dab89edf6212ccf26
+
+
+
+
