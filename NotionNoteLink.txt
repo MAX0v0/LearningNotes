@@ -8,7 +8,7 @@ JDBC笔记: https://www.notion.so/JDBC-By-Max-2f78a45395678029866bd7d53d816e44
 
 JavaWeb笔记:  https://www.notion.so/JavaWeb-By-Max-2f98a453956780438827fb5b56e139a5
 
-SSM(Spring,SoringMVC,Mybatis)笔记:  https://www.notion.so/SSM-By-Max-3138a4539567809f8207fdbd587eb7d8
+SSM(Spring,SpringMVC,Mybatis)笔记:  https://www.notion.so/SSM-By-Max-3138a4539567809f8207fdbd587eb7d8
 
 Git笔记:  https://www.notion.so/Git-By-Max-31e8a4539567801084e9d52bc434b1a1
 
